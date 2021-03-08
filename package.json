@@ -1,15 +1,16 @@
 {
-    "name": "cra-template",
-    "version": "1.1.1",
+    "name": "cra-template-ioasys",
+    "version": "0.0.1",
     "keywords": [
       "react",
       "create-react-app",
-      "template"
+      "template",
+      "ioasys"
     ],
     "description": "The base template for Create React App.",
     "repository": {
       "type": "git",
-      "url": "https://github.com/facebook/create-react-app.git",
+      "url": "https://github.com/oemersonpaiva/cra-template-poc.git",
       "directory": "packages/cra-template"
     },
     "license": "MIT",
